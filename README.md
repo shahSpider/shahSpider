@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Abdul Qadeer Shah working as python developer in a somewhere in Karachi on the projects of ERPNext and web applications.
-- 👀 I’m interested in erpnext customization, python scripting, web scrapping, web development (django/flask, js/jquery, jinja, html/css/bootstrap).
-- 🌱 I’m currently learning django, frappe and javascript.
-- 💞️ I’m looking to collaborate on python scripting and web scrapping.
-- 📫 Reach me @ https://qadeerrizvi.pythonanywhere.com/contact.html 
+👋 Hi there! I'm a passionate and highly motivated Python Developer with a strong background in web application development, data analytics, and scripting. My expertise extends to various technologies, including Django, Frappe, ERPNext, and more. I thrive on solving complex problems and enjoy collaborating with clients to tailor solutions to their specific needs.
 
-<!---
-shahSpider/shahSpider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 My skills span a wide range of technologies, from Python and JavaScript to HTML/CSS, jQuery, and more. I'm well-versed in web scraping, data analytics, and have a deep understanding of business logic, dynamic programming, and object-oriented programming.
+
+🛠️ In my most recent role at AQIQ Solutions Limited, I've had the privilege of setting up Frappe-bench versions 13 & 14, deploying ERPNext on AWS EC2 instances, and customizing ERPNext applications to meet our clients' unique requirements.
+
+🌐 Feel free to explore my GitHub repositories to see some of the projects I've worked on and the code I've crafted. If you have any questions or would like to collaborate, please don't hesitate to reach out.
+
+Let's build something amazing together! 🌟
